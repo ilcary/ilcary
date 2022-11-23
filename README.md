@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Carisio</h1>
 <h3 align="center">a curious Full-Stack Web Developer !</h3>
+<img align="right" alt="Coding" width="400" src="https://wifflegif.com/gifs/584745-programming-awesome-gif">
 
 - 🔭 I’m currently working on [UNIT CAR](https://github.com/ilcary/Car-Unit)
+
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **HTML, CSS, Sass, Bootstrap, JavaScript, TypeScript, Angular, Git, Java, MySQL, Spring Boot, Web Services**
 
 - 📫 How to reach me **carisiodigiampietro54@gmail.com**
+
+- ⚡ Fun fact **Programmer (noun.) A person who fixed a problem that you don't know you have, in a way you don't understand.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
