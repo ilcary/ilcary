@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [UNIT CAR](https://github.com/ilcary/Car-Unit)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **HTML, CSS, Sass, Bootstrap, JavaScript, TypeScript, Angular, Git, Java, MySQL, Spring Boot, Web Services**
 
