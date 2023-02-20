@@ -2,7 +2,6 @@
 <h3 align="center">a curious Full-Stack Web Developer !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-//- 🔭 I’m currently working on [UNIT CAR](https://github.com/ilcary/Car-Unit)
 
 - 🌱 I’m currently learning **C#**
 
